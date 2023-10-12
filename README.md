@@ -1,4 +1,4 @@
-# Product card design
+# პროდუქტის Card-ის დიზაინი
 მოცემულ დავალებაში გევალებათ ააწყოთ ეგრედ წოდებული **pixel perfect** დიზაინი, რომელიც სრულიად უნდა იმეორებდეს [არსებულ დიზაინის](https://www.figma.com/file/fdmcV04a6hByVhBp2nkINb/Result-summary-card?node-id=0:1&t=sEqPGQiz1onxbAno-1)
 
 ![Product card design](https://val-do.com/uploads/1677181836951.jpg)
